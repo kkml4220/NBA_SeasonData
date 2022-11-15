@@ -20,10 +20,6 @@ NBAの[公式サイト](https://global.nba.com/scores/)をPython SeleniumでWeb�
 
 URLまとめ
 
-### Chrome
-
-- [chromedriver](https://chromedriver.chromium.org/downloads)
-
 ### NBA
 
 - [NBA Official Score](https://global.nba.com/scores/)
